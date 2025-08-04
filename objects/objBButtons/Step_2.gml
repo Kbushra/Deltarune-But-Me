@@ -1,0 +1,1 @@
+if on { sprite_index = sprBButtonsSelect; } else { sprite_index = sprBButtons; }

@@ -1,0 +1,1 @@
+highlightAmount = 0;

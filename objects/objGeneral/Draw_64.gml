@@ -1,0 +1,1 @@
+if global.debug { draw_text(16, 16, "DEBUG MODE ON"); }

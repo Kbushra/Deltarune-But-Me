@@ -1,0 +1,1 @@
+visible = global.debug && keyboard_check(ord("G"));
